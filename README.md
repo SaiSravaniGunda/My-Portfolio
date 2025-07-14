@@ -92,7 +92,7 @@ Building backend APIs and managing database integration for a videographer booki
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/SaiSravaniGunda/My-Portfolio
 cd portfolio
 ```
 
