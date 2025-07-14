@@ -1,70 +1,136 @@
-# Getting Started with Create React App
+# Sai Sravani Gunda - Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive portfolio website showcasing my projects, skills, and experience as a Full-Stack Developer.
 
-## Available Scripts
+## About Me
 
-In the project directory, you can run:
+I am an aspiring software developer with strong DSA skills and hands-on MERN stack experience. I love building web apps, exploring new technologies, and collaborating on impactful projects. Currently pursuing BTech in CSE (IoT) at KITS.
 
-### `npm start`
+## Projects
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Portfolio Tracker
+Real-time stock & crypto portfolio tracking with live prices, stock-related news, authentication, analytics, and interactive charts for comprehensive portfolio management.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Tech Stack:** React, Node.js, MongoDB, Bootstrap
 
-### `npm test`
+### InterioFlow
+A web application that streamlines services: clients can submit project requests for designers, vendors can sell their products, and designers can respond to project requests—all in one platform.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Tech Stack:** Express, React, MySQL
 
-### `npm run build`
+### Smart Surveillance System
+Motion-based surveillance using Raspberry Pi & OpenCV, alerts via Telegram/Twilio.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Tech Stack:** Python, Database
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### SoftSell Landing Page
+A modern SaaS landing page featuring a dark/light mode toggle and an integrated AI chat box for user support.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Tech Stack:** React, Node.js, Bootstrap
 
-### `npm run eject`
+### Amar Gifts
+A full-featured gift shop web app with adding, removing, and updating gifts, admin dashboard, and responsive design. Built with the MERN stack.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Tech Stack:** React, Node.js, MongoDB, Bootstrap
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Vehicle Service Management
+A full-stack app for booking vehicle services, reminders, and secure authentication. Built with MongoDB, Node.js, Express, EJS, and JWT.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Tech Stack:** Node.js, Express, MongoDB
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Cargo Shipment Tracker
+A web application for tracking cargo shipments: admins can update shipment locations, view them on maps, filter by status (in transit, delivered), and update shipment statuses in real time.
 
-## Learn More
+**Tech Stack:** React, Node.js, MongoDB
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Emotion Detection from Text
+A FastAPI-powered backend that uses a fine-tuned DistilBERT model to detect emotions from text. It supports multi-label classification with 28 emotion categories, based on the GoEmotions dataset from Google.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Tech Stack:** Python
 
-### Code Splitting
+## Skills
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Frontend
+- React
+- Vite
+- JavaScript
 
-### Analyzing the Bundle Size
+### Backend
+- Express
+- Spring Boot
+- Node.js
+- MySQL
+- MongoDB
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Tools
+- Git
+- Postman
 
-### Making a Progressive Web App
+## Experience
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Full Stack Intern - Innovate Intern
+**Jun 2024 - Sept 2024**
+Built a full-stack vehicle service management app with booking, reminders, and secure authentication (MongoDB, Node.js, Express, EJS, JWT).
 
-### Advanced Configuration
+### Backend Intern - CourseVita
+**Jun 2025 - Ongoing**
+Building backend APIs and managing database integration for a videographer booking platform.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contact
 
-### Deployment
+- **Email:** saisravanigunda@gmail.com
+- **LinkedIn:** [Sai Sravani Gunda](https://www.linkedin.com/in/sai-sravani-gunda-295940294)
+- **GitHub:** [SaiSravaniGunda](https://github.com/SaiSravaniGunda)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Getting Started
 
-### `npm run build` fails to minify
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Installation
+
+1. Clone the repository
+```bash
+git clone <repository-url>
+cd portfolio
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Start the development server
+```bash
+npm start
+```
+
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+### Available Scripts
+
+- `npm start` - Runs the app in development mode
+- `npm test` - Launches the test runner
+- `npm run build` - Builds the app for production
+- `npm run eject` - Ejects from Create React App (one-way operation)
+
+## Technologies Used
+
+- **Frontend:** React, CSS3, AOS (Animate On Scroll)
+- **Icons:** React Icons
+- **Deployment:** Render, GitHub Pages
+
+## Features
+
+- Responsive design
+- Smooth animations with AOS
+- Modern UI/UX
+- Contact form
+- Project showcase
+- Skills section
+- Experience timeline
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
